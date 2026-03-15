@@ -35,7 +35,7 @@ export function Header() {
         </div>
         <div className="flex items-center gap-3">
           <a
-            href="https://dha-metabolic-app-web-dev.weltcorp.com?channel=qr"
+            href="https://dha-metabolic-app-web-dev.weltcorp.com?channel=qr&product=amberrx"
             className="px-6 py-2.5 bg-amber-500 text-white rounded-full font-semibold no-underline transition-all duration-300 text-sm border-2 border-transparent hover:bg-amber-600 hover:scale-105 hover:shadow-[0_8px_24px_rgba(245,158,11,0.4)] focus-visible:outline-3 focus-visible:outline-amber-500 focus-visible:outline-offset-4"
             style={{ touchAction: 'manipulation' }}
           >

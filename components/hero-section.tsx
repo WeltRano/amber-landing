@@ -50,7 +50,7 @@ export function HeroSection() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
               <a
-                href="https://dha-metabolic-app-web-dev.weltcorp.com?channel=qr"
+                href="https://dha-metabolic-app-web-dev.weltcorp.com?channel=qr&product=amberrx"
                 className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-amber-500 text-white rounded-2xl font-semibold no-underline transition-all duration-300 text-base hover:bg-amber-600 hover:-translate-y-1 hover:shadow-[0_12px_32px_rgba(245,158,11,0.35)] focus-visible:outline-3 focus-visible:outline-amber-500 focus-visible:outline-offset-4"
                 style={{ touchAction: 'manipulation' }}
               >

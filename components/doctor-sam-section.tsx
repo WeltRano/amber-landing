@@ -55,7 +55,7 @@ export function DoctorSamSection() {
 
         <FadeIn>
           <a
-            href="https://dha-metabolic-app-web-dev.weltcorp.com?channel=qr"
+            href="https://dha-metabolic-app-web-dev.weltcorp.com?channel=qr&product=amberrx"
             className="inline-flex items-center gap-2 px-10 py-4 bg-amber-500 text-white rounded-2xl font-semibold text-lg no-underline transition-all duration-300 hover:bg-amber-600 hover:-translate-y-1 hover:shadow-[0_16px_40px_rgba(245,158,11,0.35)] focus-visible:outline-3 focus-visible:outline-amber-500 focus-visible:outline-offset-4"
             style={{ touchAction: 'manipulation' }}
           >
