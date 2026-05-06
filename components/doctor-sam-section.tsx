@@ -16,7 +16,7 @@ export function DoctorSamSection() {
       <div className="max-w-5xl mx-auto px-6 text-center">
         <FadeIn>
           <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-            라이프닥터 쌤
+            닥터쌤
           </h2>
           <p className="text-lg text-gray-500 mb-4">
             AI 건강 상담 전문가
@@ -33,7 +33,7 @@ export function DoctorSamSection() {
           <p className="text-xl text-gray-600 leading-relaxed mb-4 max-w-2xl mx-auto">
             식습관이 걱정될 때, 감정 조절이 힘들 때.
             <br />
-            언제든 <strong className="text-amber-600">라이프닥터 쌤</strong>에게 이야기하세요.
+            언제든 <strong className="text-amber-600">닥터쌤</strong>에게 이야기하세요.
           </p>
           <p className="text-gray-400 text-sm mb-10">
             SleepQ의 &apos;슬립닥터 쌤&apos;과 함께하는 WELT AI 닥터 시리즈
@@ -59,7 +59,7 @@ export function DoctorSamSection() {
             className="inline-flex items-center gap-2 px-10 py-4 bg-amber-500 text-white rounded-2xl font-semibold text-lg no-underline transition-all duration-300 hover:bg-amber-600 hover:-translate-y-1 hover:shadow-[0_16px_40px_rgba(245,158,11,0.35)] focus-visible:outline-3 focus-visible:outline-amber-500 focus-visible:outline-offset-4"
             style={{ touchAction: 'manipulation' }}
           >
-            👩‍⚕️ 라이프닥터 쌤에게 먼저 상담받기
+            👩‍⚕️ 닥터쌤에게 먼저 상담받기
           </a>
         </FadeIn>
       </div>

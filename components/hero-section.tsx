@@ -54,7 +54,7 @@ export function HeroSection() {
                 className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-amber-500 text-white rounded-2xl font-semibold no-underline transition-all duration-300 text-base hover:bg-amber-600 hover:-translate-y-1 hover:shadow-[0_12px_32px_rgba(245,158,11,0.35)] focus-visible:outline-3 focus-visible:outline-amber-500 focus-visible:outline-offset-4"
                 style={{ touchAction: 'manipulation' }}
               >
-                👩‍⚕️ 라이프닥터 쌤에게 먼저 상담받기
+                👩‍⚕️ 닥터쌤에게 먼저 상담받기
               </a>
               <a
                 href="https://apps.apple.com/us/app/amberrx/id1660221123"
